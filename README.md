@@ -1,4 +1,4 @@
-# Aprendendo a Ranquear com Florestas Aleatórias e Algoritmos Genéticos (PIBIC)
+# Otimização de Performace e Eficacia com Ranqueamento com Florestas Aleatórias e Algoritmos Genéticos (PIBIC)
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 ![Badge Python](http://img.shields.io/static/v1?label=LINGUAGEM&message=PYTHON&color=blue&style=for-the-badge)
